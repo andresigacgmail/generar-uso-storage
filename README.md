@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <p align="center">Consultar Uso</p>
-  <img src="https://raw.githubusercontent.com/andreshoracio/Conversor-de-Moneda---Challenge-One-Java/main/src/resources/img/conversor%20moneda.gif" alt="encriptador texto">
+  <img src="https://raw.githubusercontent.com/andresigacgmail/generar-uso-storage/main/src/main/resources/static/img/generar%20uso.gif" alt="encriptador texto">
 </h1>
 
 > **Se propuso crear un web service que describiera el estado del disco duro del servidor (disponible, total, uso) .**
